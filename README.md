@@ -5,7 +5,7 @@ Bienvenido a mi portafolio de Informática Forense y DFIR (Digital Forensics & I
 
 # Sobre mí
 
-Soy un estudiante y entusiasta de la informática forense y la ciberseguridad, enfocado en desarrollar habilidades prácticas mediante laboratorios reales, el apego a la normativa local e internacional, el rigor científico y ético.
+Forense digital, entusiasta de la ciberseguridad, las redes, de como la tecnologia cambia la manera en la que entendemos el mundo. Enfocado en desarrollar habilidades prácticas mediante laboratorios reales, el apego a la normativa local e internacional, el rigor científico y ético.
 
 ---
 
