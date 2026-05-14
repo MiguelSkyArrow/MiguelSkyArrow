@@ -1,33 +1,37 @@
-# Creacion de imagen forense RAW (Escenario 1)
+# Creación de imagen forense RAW (Escenario 1)
 
 ## Objetivo
 
-Demostrar de manera practica como crear una imágen forense fisica de un computador encendido con su sistema en ejecucion. 
+Demostrar de manera práctica cómo crear una imagen forense física de un computador encendido con su sistema en ejecución. 
 
 ---
 ### Habilidades aprendidas
 
-- Adquisicion de copia bit a bit en vivo
-- Validacion de integridad de evidencia adquirida
+- Adquisición de copia bit a bit en vivo  
+- Validación de integridad de evidencia adquirida  
 
 ---
 ### Equipo objetivo
-- Maquina virtual con Windows 10
-- Sistema: en funcionamiento
-- Disco sin cifrar
+- Máquina virtual con Windows 10  
+- Sistema: en funcionamiento  
+- Disco sin cifrar  
 
 ---
-## Metodologia
-- Adquisicion en vivo
+## Metodología
+- Adquisición en vivo  
 
 ---
 ### Normativa
-- ISO IEC 2037
+- ISO IEC 2037  
 
 ---
 ## Herramientas
-- Data duplicator (dd)
-- HashCalc
+- Data duplicator (dd)  
+- HashCalc  
+
+---
+## Reflexión
+Si bien el procedimiento fue exitoso, recomiendo la creación de una imagen forense física o copia bit a bit empleando otros tipos de metodologías como son la adquisición muerta o en frío. La adquisición en vivo realizada está sujeta a errores debido a la copia que se hace a nivel de bit de datos que pueden estar en sectores protegidos por el sistema. Recomiendo su uso en casos excepcionales, como puede ser si el equipo objetivo es parte de una infraestructura crítica y por ello no pueda apagarse.
 
 ---
 # PROCEDIMIENTO TECNICO REALIZADO
@@ -48,5 +52,10 @@ Demostrar de manera practica como crear una imágen forense fisica de un computa
     .\dd if=\\.\PHYSICALDRIVE0 of=I:\imagen.dd bs=512k conv=noerror,sync --progress
   	<img width="1090" height="613" alt="image" src="https://github.com/user-attachments/assets/c5a2ff1e-2b18-4208-b170-008f0b720da9" />
 
+5.  Completado el proceso, pude ver la imagen forense.
+<img width="1090" height="613" alt="image" src="https://github.com/user-attachments/assets/ee62607d-567a-400a-b7b9-c5bd2adae8f5" />
 
+8.	Ejecuté la herramienta "HashCalc", dejé seleccionado únicamente el hash MD5, coloqué la ubicación de la imagen.dd e hice clic en “Calculate”
+<img width="1090" height="613" alt="image" src="https://github.com/user-attachments/assets/81b99876-93a6-4635-8429-e386f461e0eb" />
 
+Hash MD5: 2c521aafd183b566f12293bfef12780e
