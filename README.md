@@ -17,7 +17,7 @@ Soy un estudiante y entusiasta de la informática forense y la ciberseguridad, e
 
 # Contenido del Repositorio
 
-Este repositorio documenta prácticas, laboratorios, investigaciones y ejercicios técnicos realizados por mi parte. Entre estas están:
+Este repositorio documenta prácticas e investigaciones realizadas por mi y aplicadas a cada subdisciplina de la informatica forense. Entre las que están:
 
 - Forensia en Windows
 - Forensia en Linux
@@ -27,9 +27,6 @@ Este repositorio documenta prácticas, laboratorios, investigaciones y ejercicio
 - Forensia a la Dark Web
 - Forensia en Vivo
 - Forensia Post-Mortem
-- Metodología contra métodos anti forenses
-- Técnicas digitales forenses
-- Creación de Laboratorio forense
   
 Y más...
 
@@ -48,9 +45,9 @@ En mi haber, he practicado con más de 70 herramientas entre Windows y Linux, en
 ---
 
 
-# En Desarrollo
+# Licencias y Certificaciones
 
-Este repositorio se encuentra en constante actualización mientras continúo aprendiendo y desarrollando nuevas prácticas y laboratorios.
+[![Certified in Cybersecurity](https://img.shields.io/badge/Certified%20in%20Cybersecurity-003366?style=for-the-badge&label=ISC2&labelColor=009900)](https://www.credly.com/badges/4174b373-3d29-4dd8-be76-304b08f5339a/linked_in_profile)
 
 ---
 
@@ -62,4 +59,6 @@ Este repositorio se encuentra en constante actualización mientras continúo apr
 
 # Nota
 
-Todos los análisis y prácticas fueron realizados en entornos de laboratorio controlados y con fines educativos.
+- Todos los análisis y prácticas fueron realizados en entornos de laboratorio controlados y con fines educativos.
+- Este repositorio se encuentra en constante actualización mientras continúo aprendiendo y desarrollando nuevas prácticas y laboratorios.
+
