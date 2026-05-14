@@ -65,7 +65,7 @@ En mi haber, he practicado con más de 70 herramientas entre Windows y Linux, en
 
 ---
 
-# Nota
+# Consideraciones
 
 - Todos los análisis y prácticas fueron realizados en entornos de laboratorio controlados y con fines educativos.
 - Este repositorio se encuentra en constante actualización mientras continúo aprendiendo y desarrollando nuevas prácticas y laboratorios.
