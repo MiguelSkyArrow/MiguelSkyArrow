@@ -13,7 +13,7 @@ Demostrar de manera practica como crear una imágen forense fisica de un computa
 ---
 ### Equipo objetivo
 - Maquina virtual con Windows 10
-- Estado: en funcionamiento
+- Sistema: en funcionamiento
 - Disco sin cifrar
 
 ---
