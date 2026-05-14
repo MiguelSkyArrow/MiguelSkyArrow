@@ -47,7 +47,13 @@ En mi haber, he practicado con más de 70 herramientas entre Windows y Linux, en
 
 # Licencias y Certificaciones
 
+[![Digital Forensics Essentials](https://img.shields.io/badge/Digital%20Forensics%20Essentials-CC0000?style=for-the-badge&label=EC-Council&labelColor=FFFFFF)](https://www.coursera.org/account/accomplishments/verify/KWLW4H2RA3CO)
+
 [![Certified in Cybersecurity](https://img.shields.io/badge/Certified%20in%20Cybersecurity-003366?style=for-the-badge&label=ISC2&labelColor=009900)](https://www.credly.com/badges/4174b373-3d29-4dd8-be76-304b08f5339a/linked_in_profile)
+
+[![Cisco Cybersecurity](https://img.shields.io/badge/Cybersecurity%20Defense%20Analyst%20Career%20Path-005073?style=for-the-badge&label=Cisco&labelColor=FFFFFF)](https://www.credly.com/badges/9657ae2a-fdff-42b3-a4d5-3ca468e73d32/linked_in_profile)
+
+
 
 ---
 
