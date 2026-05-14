@@ -72,14 +72,14 @@ La imagen se creo exitosamente.
 
 Hash sha256: 95deeb54615fd269efdb5447db01b1e94cdfad802fecdf4f13ae18eb9e0d715f
 
-8.	Terminada la adquisición, procedí a desmontar la partición montada. Para esto usé el comando umount /mnt
+9.	Terminada la adquisición, procedí a desmontar la partición montada. Para esto usé el comando umount /mnt
 <img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/7d0528de-2356-4ee1-aaea-5488960b926a" />
 
 
-9.	Expulsé de forma segura el dispositivo USB donde almacené la adquisición realizada. Para esto usé el comando eject /dev/sdc
+10.	Expulsé de forma segura el dispositivo USB donde almacené la adquisición realizada. Para esto usé el comando eject /dev/sdc
 <img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/3b96a91e-ad1d-4b95-afdd-a5890a549f4a" />
 
-10.	 Finalmente, apagué el equipo. Utilicé el comando shutdown -h now
+11.	 Finalmente, apagué el equipo. Utilicé el comando shutdown -h now
 <img width="940" height="528" alt="image" src="https://github.com/user-attachments/assets/174d5f3a-3496-4baf-ac98-4266fadb282e" />
 
 
