@@ -17,7 +17,7 @@ Soy un estudiante y entusiasta de la informática forense y la ciberseguridad, e
 
 # Contenido del Repositorio
 
-Este repositorio documenta prácticas e investigaciones realizadas por mi y aplicadas a cada subdisciplina de la informatica forense. Entre las que están:
+Este repositorio documenta mis prácticas e investigaciones realizadas, aplicadas a cada subdisciplina de la informatica forense y de las que destaco:
 
 - Forensia en Windows
 - Forensia en Linux
@@ -25,8 +25,7 @@ Este repositorio documenta prácticas e investigaciones realizadas por mi y apli
 - Forensia a Móviles
 - Forensia a Redes
 - Forensia a la Dark Web
-- Forensia en Vivo
-- Forensia Post-Mortem
+- Forensia a dispositivos IOT
   
 Y más...
 
