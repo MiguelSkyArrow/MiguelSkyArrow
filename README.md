@@ -33,7 +33,7 @@ Y más...
 ---
 
 # Tecnologías y Herramientas
-En mi haber, he practicado con más de 70 herramientas entre Windows y Linux, entre las que destaco:
+En mi haber, he practicado con más de 70 herramientas entre Windows, Linux y Mac, entre las que destaco:
 - FTK Imager
 - Autopsy
 - The Sleuth Kit (TSK)
