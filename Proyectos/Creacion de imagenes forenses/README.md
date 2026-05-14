@@ -1,1 +1,29 @@
 
+# Creacion de imagenes forenses (caso 1)
+
+## Objetivo
+
+Demostrar de manera practica como crear una imágen forense fisica de un equipo en funcionamiento. 
+
+### Habilidades aprendidas
+
+- Adquisicion de copia bit a bit de un medio de almacenamiento en un sistema en funcionamiento
+- Validacion de integridad de evidencia adquirida
+
+### Equipo objetivo
+- Maquina virtual con Windows 10
+- Estado: en funcionamiento
+- Disco sin cifrar
+
+## Metodologia
+- Adquisicion en vivo
+  
+### Normativa
+- ISO IEC 2037
+
+## Herramientas
+
+- Data duplicator (dd)
+- HashCalc
+
+# PROCEDIMIENTO
