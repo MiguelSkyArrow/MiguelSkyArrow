@@ -1,31 +1,26 @@
-# Creación de imagen forense RAW (Escenario 2)
+# Protección contra escritura via software
 
 ## Objetivo
 
-Demostrar de manera práctica cómo habilitar la proteccion contra escritura en todos los puertos USB de un computador.
+Demostrar de manera práctica cómo habilitar la protección contra escritura en todos los puertos USB de un computador.
 
 ---
 ### Habilidades aprendidas
 
-- Preservación de evidencia previo adquisición de medios de almacenamiento conectados via USB
+- Preservación de evidencia previo a la adquisición de medios de almacenamiento conectados vía USB  
 
 ---
 ## Metodología
-- Protección contraescritura via software
+- Protección contra escritura vía software  
 
 ---
 ### Normativa
 - ISO IEC 2037  
 
 ---
-### Tecnica empleada
-- Manipulacion de registro de windows
+### Técnica empleada
+- Manipulación de registro de Windows  
 
 ---
 ## Reflexión
-Proteger un dispositivo contra escritura, implica evitar que se puedan escribir nuevos datos en este, salvaguardando la integridad de la evidencia digital que contiene y su valor probatorio. Si bien, lo idea es utilizar hardware especializado para con estos fines, su uso via software resulta ser una solucion economica y eficaz en situaciones en las que se deben conectar dispositivos via USB a la estacion de trabajo forense para la adquisicion fisica o logica de estos, o simplemente realizarles labores de triage en vivo.
-
----
-# PROCEDIMIENTO TECNICO REALIZADO
-
-
+Proteger un dispositivo contra escritura implica evitar que se puedan escribir nuevos datos en este, salvaguardando la integridad de la evidencia digital que contiene y su valor probatorio. Si bien, lo ideal es utilizar hardware especializado con estos fines, su uso vía software resulta ser una solución económica y eficaz en situaciones en las que se deben conectar dispositivos vía USB a la estación de trabajo forense para la adquisición física o lógica de estos, o simplemente realizarles labores de triage en vivo.
