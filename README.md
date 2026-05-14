@@ -53,7 +53,9 @@ En mi haber, he practicado con más de 70 herramientas entre Windows y Linux, en
 
 [![Cisco Cybersecurity](https://img.shields.io/badge/Cybersecurity%20Defense%20Analyst%20Career%20Path-005073?style=for-the-badge&label=Cisco&labelColor=FFFFFF)](https://www.credly.com/badges/9657ae2a-fdff-42b3-a4d5-3ca468e73d32/linked_in_profile)
 
+[![Cisco Networking Essentials](https://img.shields.io/badge/Networking%20Essentials-005073?style=for-the-badge&label=Cisco&labelColor=FFFFFF)](https://www.credly.com/badges/31e58ba3-1d1d-455f-a5b2-9e5f995ceb18/linked_in_profile)
 
+[![Ethical Hacker](https://img.shields.io/badge/Ethical%20Hacker-005073?style=for-the-badge&label=Cisco&labelColor=FFFFFF)](https://www.credly.com/badges/0a739728-fd62-454b-8387-672e1b3b7b26/linked_in_profile)
 
 ---
 
