@@ -19,8 +19,10 @@ Demostrar de manera práctica cómo habilitar la protección contra escritura en
 
 ---
 ### Técnica empleada
-- Manipulación de registro de Windows  
+- Modificación del registro de Windows  
 
 ---
 ## Reflexión
 Proteger un dispositivo contra escritura implica evitar que se puedan escribir nuevos datos en este, salvaguardando la integridad de la evidencia digital que contiene y su valor probatorio. Si bien, lo ideal es utilizar hardware especializado con estos fines, su uso vía software resulta ser una solución económica y eficaz en situaciones en las que se deben conectar dispositivos vía USB a la estación de trabajo forense para la adquisición física o lógica de estos, o simplemente realizarles labores de triage en vivo.
+
+
