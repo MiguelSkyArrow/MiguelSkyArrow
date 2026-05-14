@@ -50,13 +50,13 @@ En mi haber, he practicado con más de 70 herramientas entre Windows y Linux, en
 Algunas de las practicas a encontrar serán:
 - Creación de imágenes forenses (Lógica & Física)
 - Adquisición y análisis de memoria RAM
-- Adquisición y análisis de trafico de red
+- Adquisición y análisis de tráfico de red
 - Extracción y análisis de artefactos forenses
 - Análisis a bajo nivel
 - Recuperación de datos eliminados
 - Extracción lógica en dispositivos móviles
 - Creación de líneas de tiempo
-Y más …
+Y más…
 
 # Objetivos
 
