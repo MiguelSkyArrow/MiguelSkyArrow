@@ -7,20 +7,20 @@ Demostrar de manera práctica cómo crear una imagen forense física de un compu
 ---
 ### Habilidades aprendidas
 
-- Adquisición de copia bit a bit arrancando sistema externo
-- Validación de integridad de evidencia adquirida
-- Preservacion de evidencia adquirida
+- Adquisición de copia bit a bit arrancando sistema externo  
+- Validación de integridad de evidencia adquirida  
+- Preservación de evidencia adquirida  
 
 ---
 ### Equipo objetivo
 - Máquina virtual con Windows 10  
 - Sistema: sin arrancar  
-- Disco sin cifrar
-- UEFI configurada para permitir arranque desde medios externos 
+- Disco sin cifrar  
+- UEFI configurada para permitir arranque desde medios externos  
 
 ---
 ## Metodología
-- Adquisición en frio
+- Adquisición en frío  
 
 ---
 ### Normativa
@@ -28,14 +28,14 @@ Demostrar de manera práctica cómo crear una imagen forense física de un compu
 
 ---
 ## Herramientas
-- Unidad USB flash
-- Ventoy
-- systemrescue
+- Unidad USB flash  
+- Ventoy  
+- SystemRescue  
 - Data duplicator (dd)    
 
 ---
 ## Reflexión
-Procedimiento exitoso. Este tipo de procedimiento es util cuando se quiere realizar la adquisicion fisica sin necesidad de abrir el equipo para extraer el medio de almacenamiento. Requiere que la BIOS/UEFI este configurada para poder arrancar desde dispositivos externos como USB o CD. Si la configuracion no esta, se puede entrar a la BIOS/UEFI y realizar los ajustes, pero esto no siempre es una opcion viable. 
+Este tipo de procedimiento es sumamente útil cuando se quiere realizar la adquisición física sin necesidad de abrir el equipo para extraer su medio de almacenamiento. Requiere que la BIOS/UEFI esté configurada para poder arrancar desde dispositivos externos como USB o CD. Si la configuración no está, se puede entrar a la BIOS/UEFI y realizar los ajustes, pero esto no siempre es una opción viable.
 
 ---
 # PROCEDIMIENTO TECNICO REALIZADO
