@@ -2,16 +2,16 @@
 
 ## Objetivo
 
-Demostrar de manera práctica como virtualizar un disco vdi y asi poder visualizar su contenido.
+Demostrar de manera práctica cómo virtualizar un disco VDI y así poder visualizar su contenido.
 
 ---
 ### Habilidades aprendidas
 
-- Virtualizar disco virtual VDI 
+- Virtualizar disco virtual VDI  
 
 ---
 ## Metodología
-- Virtualizacion  
+- Virtualización  
 
 ---
 ### Herramienta
@@ -19,13 +19,12 @@ Demostrar de manera práctica como virtualizar un disco vdi y asi poder visualiz
 
 ---
 ### Técnica empleada
-- Virtualizacion de disco virtual VDI con VirtualBox
+- Virtualización de disco virtual VDI con VirtualBox  
 
 ---
 ## Reflexión
 
-Virtualizar el VDI es sumamente util. Nos permite no solo analizar el archivo de imagen forense mediante herramientas como Autopsy o TSK, sino que luego de convertirlo a VDI, nos permite visualizar y navegar por el sistema tal cual se encontraba previo a la adquisicion.
-
+Virtualizar el VDI es sumamente útil. Nos permite no solo analizar el archivo de imagen forense mediante herramientas como Autopsy o TSK, sino que, luego de convertirlo a VDI, nos permite visualizar y navegar por el sistema tal cual se encontraba
 ---
 # PROCEDIMIENTO TECNICO REALIZADO
 
