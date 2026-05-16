@@ -18,10 +18,6 @@ Demostrar de manera práctica cómo convertir una imagen forense en formato RAW,
 - VirtualBox  
 
 ---
-### Técnica empleada
-- Conversión de formato con VirtualBox  
-
----
 ## Reflexión
 Gracias a este procedimiento pude convertir una imagen forense obtenida en formato RAW con la herramienta dd a un disco duro virtual (VDI), formato compatible con VirtualBox, para entonces poder virtualizar el equipo desde el cual fue obtenida la imagen.
 
