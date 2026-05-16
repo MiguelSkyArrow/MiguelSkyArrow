@@ -11,15 +11,11 @@ Demostrar de manera práctica cómo virtualizar un disco VDI y así poder visual
 
 ---
 ## Metodología
-- Virtualización  
+- Virtualización
 
 ---
 ### Herramienta
 - VirtualBox  
-
----
-### Técnica empleada
-- Virtualización de disco virtual VDI con VirtualBox  
 
 ---
 ## Reflexión
